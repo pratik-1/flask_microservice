@@ -1,4 +1,4 @@
-
+[![Microservice Test](https://github.com/pratik-1/flask_microservice/actions/workflows/main.yml/badge.svg)](https://github.com/pratik-1/flask_microservice/actions/workflows/main.yml)
 
 # flask-change-microservice
 Small Flask Microservice
