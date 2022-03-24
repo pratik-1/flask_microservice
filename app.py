@@ -1,5 +1,3 @@
-# from urllib import request
-from crypt import methods
 from flask import Flask, request
 from flask import jsonify
 app = Flask(__name__)
